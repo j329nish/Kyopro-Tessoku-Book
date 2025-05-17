@@ -1,1 +1,1 @@
-# Kyopro-Tessoku-Book
+# 競技プログラミングの鉄則
