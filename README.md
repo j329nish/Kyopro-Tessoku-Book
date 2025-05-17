@@ -1,5 +1,10 @@
 # 競技プログラミングの鉄則
 
+## 1. 概要
+「競技プログラミングの鉄則」[[URL](https://book.mynavi.jp/ec/products/detail/id=131288)]を私自身が解いたものになります。<br>
+問題を自動で採点してくれるものがAtCoderに載っているらしいです[[URL](https://atcoder.jp/contests/tessoku-book)]。
+
+## 2. 目次
 | 章番号 | 内容                                | Colab | Link |
 |--------|------------------------------------|--------|--------|
 | 第1章  | アルゴリズムと計算量                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/Kyopro-Tessoku-Book/blob/main/chapter1.ipynb)| [Link](https://github.com/j329nish/Kyopro-Tessoku-Book/blob/main/chapter1.ipynb) |
