@@ -19,6 +19,6 @@
 | 第10章 | 総合問題                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/Kyopro-Tessoku-Book/blob/main/chapter10.ipynb)| [Link](https://github.com/j329nish/Kyopro-Tessoku-Book/blob/main/chapter10.ipynb) |
 
 
-## 第2章まで終了済み
+## 第3章まで終了済み
 
-(最終更新 2025/5/17)
+(最終更新 2025/5/23)
