@@ -2,7 +2,8 @@
 
 ## 1. 概要
 「競技プログラミングの鉄則」[[URL](https://book.mynavi.jp/ec/products/detail/id=131288)]を私自身が解いたものになります。<br>
-問題を自動で採点してくれるものがAtCoderに載っているらしいです[[URL](https://atcoder.jp/contests/tessoku-book)]。
+問題を自動で採点してくれるものがAtCoderに載っているらしいです[[URL](https://atcoder.jp/contests/tessoku-book)]。<br>
+Pytonだと実行時間制限超過になる問題がいくつかあるので、C++で問題を解くのが良いかも。
 
 ## 2. 目次
 | 章番号 | 内容                                | Colab | Link |
@@ -18,7 +19,9 @@
 | 第9章  | グラフアルゴリズム                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/Kyopro-Tessoku-Book/blob/main/chapter9.ipynb)| [Link](https://github.com/j329nish/Kyopro-Tessoku-Book/blob/main/chapter9.ipynb) |
 | 第10章 | 総合問題                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/Kyopro-Tessoku-Book/blob/main/chapter10.ipynb)| [Link](https://github.com/j329nish/Kyopro-Tessoku-Book/blob/main/chapter10.ipynb) |
 
+## 3. 注意点
+第4.5章, B20はPythonで実行時間制限超過(TLE)
 
-## 第3章まで終了済み
+## 第4.5章まで終了済み
 
-(最終更新 2025/5/23)
+(最終更新 2025/5/24)
