@@ -20,7 +20,8 @@ Pytonだと実行時間制限超過になる問題がいくつかあるので、
 | 第10章 | 総合問題                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/Kyopro-Tessoku-Book/blob/main/chapter10.ipynb)| [Link](https://github.com/j329nish/Kyopro-Tessoku-Book/blob/main/chapter10.ipynb) |
 
 ## 3. 注意点
-第4.5章, B20はPythonで実行時間制限超過(TLE)
+- 第4.5章, B20はPythonで実行時間制限超過(TLE)
+- 第6.4章, B39はPythonで実行時間制限超過(TLE)
 
 ## 第5章まで終了済み
 
